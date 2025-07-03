@@ -5,28 +5,28 @@ var categoryText = ["Necessary", "Preferences", "Statistics", "Marketing", "Uncl
 
 var learnMoreText = "Learn more about the provider";
 
-var topSectionText = ["Consent", "Details", "About"];
+var topSectionText = ["Samtykke", "Detaljer", "Om cookies"];
 
 var firstSectionText = "Vi bruger cookies til at personalisere indhold og annoncer, tilvejebringe funktioner til sociale medier og analysere vores trafik. Vi deler også oplysninger om din brug af vores hjemmeside med vores partnere inden for sociale medier, annoncering og analyse, som kan kombinere dem med andre oplysninger, du har givet dem, eller som de har indsamlet fra din brug af deres tjenester.";
 var thirdSectionText = "Cookies er små tekstfiler, der bruges af hjemmesider til at forbedre brugeroplevelsen. Loven siger, at vi kan gemme cookies på din enhed, hvis de er strengt nødvendige for driften af denne hjemmeside. For alle andre typer cookies har vi brug for din tilladelse. Dette betyder, at cookies klassificeret som nødvendige håndteres i henhold til artikel 6, stk. 1, litra f, i GDPR. Alle andre cookies, såsom dem i kategorierne Præferencer og Markedsføring, håndteres i henhold til artikel 6, stk. 1, litra a, i GDPR. Denne hjemmeside bruger forskellige typer cookies. Nogle cookies sættes af tredjepartstjenester, der vises på vores sider.";
 
-var bannerButtonsTexts = ["Acceptér", "Afvis", "Customize", "Gem"];
+var bannerButtonsTexts = ["Acceptér", "Afvis", "Tilpas", "Gem"];
 
 var categoryDescriptionsText = {
 	Necessary: {
-		description: "Necessary cookies make the website usable by enabling basic functions like page navigation and access to secure areas of the website. Without these cookies, the website cannot function properly.",
+		description: "Nødvendige cookies gør hjemmesiden brugbar ved at aktivere grundlæggende funktioner som side-navigation og adgang til sikre områder af hjemmesiden. Uden disse cookies kan hjemmesiden ikke fungere korrekt.",
 	},
 	Preferences: {
-		description: "Preference cookies enable a website to remember information that changes the way the website behaves or looks.",
+		description: "Præference-cookies gør det muligt for hjemmesiden at huske oplysninger, der ændrer dens udseende eller funktion, som for eksempel dit foretrukne sprog eller region.",
 	},
 	Statistics: {
-		description: "Statistics cookies help website owners understand how visitors interact with websites by collecting and reporting information anonymously.",
+		description: "Statistik-cookies hjælper os med at forstå, hvordan besøgende interagerer med hjemmesiden, ved at indsamle og rapportere oplysninger anonymt.",
 	},
 	Marketing: {
-		description: "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user.",
+		description: "Marketing-cookies bruges til at spore besøgende på tværs af hjemmesider. Formålet er at vise annoncer, der er relevante og engagerende for den enkelte bruger.",
 	},
 	Unclassified: {
-		description: "Unclassified cookies are cookies that we are currently classifying together with the providers of individual cookies.",
+		description: "Uklassificerede cookies er cookies, som vi er i gang med at klassificere i samarbejde med udbyderne.",
 	},
 };
 
