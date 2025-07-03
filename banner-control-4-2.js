@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://blichfeldtvvs.dk/wp-content/uploads/2021/10/logo_493.png";
+var websiteLogo = "https://kc-its.dk/wp-content/uploads/2024/02/kc-its-logo.png";
 
 var logoWidth = "200px";
 
